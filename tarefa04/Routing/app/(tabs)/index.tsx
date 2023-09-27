@@ -4,7 +4,7 @@ import { Text, View } from '../../components/Themed';
 export default function TabOneScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Route 1</Text>
+      <Text style={styles.title}>Rota 1</Text>
     </View>
   );
 }

@@ -6,7 +6,7 @@ import { Text, View } from '../../components/Themed';
 export default function TabTwoScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Route 3</Text>
+      <Text style={styles.title}>Rota 3</Text>
     </View>
   );
 }
